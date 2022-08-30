@@ -8,6 +8,7 @@ public class GitTest {
         System.out.println("hello git4");
         System.out.println("master text commit");
         System.out.println("his-fix text commit");
+        System.out.println("push text commit");
     }
 }
 
